@@ -1,8 +1,8 @@
-INSERT INTO burgers(burger_name) VALUES ('Grand Slam Burger');
-INSERT INTO burgers(burger_name) VALUES ('Buffalo Chicken Burger');
-INSERT INTO burgers(burger_name) VALUES ('Foo Burger');
-INSERT INTO burgers(burger_name) VALUES ('Bacon Cheeseburger');
-INSERT INTO burgers(burger_name) VALUES ('Double Double Burger');
-INSERT INTO burgers(burger_name) VALUES ('Veggie Burger');
-INSERT INTO burgers(burger_name) VALUES ('Black & Bleu Burger');
-INSERT INTO burgers(burger_name) VALUES ('Krabby Patty');
+INSERT INTO burgers(burger_name) VALUES ('Orange Bloosom');
+INSERT INTO burgers(burger_name) VALUES ('Shiner Bock');
+INSERT INTO burgers(burger_name) VALUES ('Negro Modelo');
+INSERT INTO burgers(burger_name) VALUES ('Coors Lite');
+INSERT INTO burgers(burger_name) VALUES ('Michelob Amber');
+INSERT INTO burgers(burger_name) VALUES ('Dos Equis');
+INSERT INTO burgers(burger_name) VALUES ('Kilt Lifter');
+INSERT INTO burgers(burger_name) VALUES ('Big Mouth Blonde');
